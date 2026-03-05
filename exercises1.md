@@ -15,7 +15,7 @@
 
 Write a program that asks the user to enter their name, then prints:
 
-“Hello <name>”.
+“Hello *name*”
 
 ### Hint
 
