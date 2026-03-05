@@ -168,7 +168,14 @@ else:
 
 ## 6. Observing number and string concatenation
 
-Try the example shown in class involving adding numbers and strings.
+Try the example below adding numbers and strings.
+
+```python
+age = int(input("How old are you?"))
+print("You entered", age)
+# Try the one below as-is, then try to replace 'age' with 'str(age)' 
+print("You entered " + age)
+```
 
 ### Hint
 
