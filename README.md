@@ -1,5 +1,8 @@
-# h17x34-online
-Exercises for H17X34 Programming Foundations
+# H17X 34 Programming Foundations (Python) - exercise list
+
+## Exercises for H17X34 Programming Foundations
+
+### Simple input/output/if-else statements
 
 1. Write a program that asks the user to enter their name – then output a message on the screen saying **"Hello <name>"**.
 
@@ -31,4 +34,5 @@ Exercises for H17X34 Programming Foundations
     - Over 80: **"You have a very high score"**  
     - Between 50 and 79: **"You have done quite well"**  
     - Below 50: **"You will need to study a bit more"**
-    
+  
+   
